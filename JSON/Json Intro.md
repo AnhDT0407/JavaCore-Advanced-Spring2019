@@ -20,5 +20,8 @@
 - JSON là ngôn ngữ độc lập *
 
 _*
-JSON uses JavaScript syntax, but the JSON format is text only.
-Text can be read and used as a data format by any programming language._
+JSON sử dụng cú pháp JavaScript, nhưng định dạng JSON chỉ là văn bản.
+Văn bản có thể được đọc và sử dụng như một định dạng dữ liệu bởi bất kỳ ngôn ngữ lập trình nào._
+
+## Why use JSON
+Vì định dạng JSON chỉ là văn bản, nên nó có thể dễ dàng được gửi đến và từ một máy chủ và được sử dụng làm định dạng dữ liệu bởi bất kỳ ngôn ngữ lập trình nào.
