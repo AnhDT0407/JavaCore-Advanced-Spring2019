@@ -18,6 +18,6 @@
 - JSON là một định dạng trao đổi dữ liệu nhẹ 
 - JSON là "self-describing" và dễ hiểu
 - JSON là ngôn ngữ độc lập *
-**
+_*
 JSON uses JavaScript syntax, but the JSON format is text only.
-Text can be read and used as a data format by any programming language.*
+Text can be read and used as a data format by any programming language._
