@@ -48,7 +48,7 @@ public class Main {
 
     }
 
-    public String getURL(String key, String text) {
+    private String getURL(String key, String text) {
         String url = "http://sandbox.api.simsimi.com/request.p?key=" + key
                 + "&lc=vn&ft=0.0&text=" + text;
         return url;
@@ -81,4 +81,46 @@ public class Main {
     }
 }
 
+```
+
+Sim.java
+```java
+public class Sim {
+    private int result;
+    private String response;
+    private long id;
+    private String msg;
+
+    public int getResult() {
+        return result;
+    }
+
+    public void setResult(int result) {
+        this.result = result;
+    }
+
+    public String getResponse() {
+        return response;
+    }
+
+    public void setResponse(String response) {
+        this.response = response;
+    }
+
+    public long getId() {
+        return id;
+    }
+
+    public void setId(long id) {
+        this.id = id;
+    }
+
+    public String getMsg() {
+        return msg;
+    }
+
+    public void setMsg(String msg) {
+        this.msg = msg;
+    }
+}
 ```
