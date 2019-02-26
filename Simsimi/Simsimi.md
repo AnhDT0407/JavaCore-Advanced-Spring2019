@@ -1,5 +1,7 @@
  # Code example Simsimi
 
+[Download thư viện Gson](https://github.com/AnhDT0407/JavaCore-Advanced-Spring2019/blob/master/Simsimi/gson-2.8.5.jar)
+
 Main.java
 ```java
 /*
